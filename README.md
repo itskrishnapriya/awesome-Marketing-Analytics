@@ -94,3 +94,4 @@ Say Hi :wave:
 
 ### Tutorials :man_technologist:
 
+- Contributor: Kris ✨  
